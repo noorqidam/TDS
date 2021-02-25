@@ -64,8 +64,8 @@ div.user-stats ul li {
 }
 div.user-stats ul li:hover {
   background: rgba(0, 0, 0, 0);
-  color: #3a7999;
-  border-bottom: 3px solid #3a7999;
+  color: #636e72;
+  border-bottom: 3px solid #636e72;
 }
 h1 {
   line-height: 37.05px;
