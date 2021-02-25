@@ -16,7 +16,6 @@ class UserData extends Component {
     this.fetchData = this.fetchData.bind(this);
   }
   componentDidMount() {
-    console.log("I'm");
     this.setState({
       loading: true,
     });
